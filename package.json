@@ -1,0 +1,25 @@
+{
+  "name": "ra2-cameo-gen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack serve",
+    "pack": "webpack --mode=production "
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bdfjs": "^0.0.8",
+    "color-delta-e": "^1.1.2",
+    "image-palette": "^2.1.0",
+    "pica": "^9.0.1",
+    "rgbquant": "^1.1.2"
+  },
+  "devDependencies": {
+    "webpack": "^5.82.1",
+    "webpack-cli": "^5.1.1",
+    "webpack-dev-server": "^4.15.0"
+  }
+}
