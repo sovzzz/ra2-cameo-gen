@@ -46,9 +46,9 @@ const RgbQuant = require('rgbquant')
   const defaultName = '补佳乐'
   const cameoFileName = 'cameo.act'
 
-  const fontFileName_en = 'zpix-10.bdf.woff'
-  const fontFileName_ch = 'zpix-9.bdf.woff'
-  const fontFileName_ch_en = 'zpix-8.bdf.woff'
+  const fontFileName_en = 'zpix-10.bdf'
+  const fontFileName_ch = 'zpix-9.bdf'
+  const fontFileName_ch_en = 'zpix-8.bdf'
 
   const rainbowSheet = {}
   /**
